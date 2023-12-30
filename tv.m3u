@@ -8693,8 +8693,6 @@ http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/557177
 http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/557178
 #EXTINF:-1 tvg-id="" tvg-name="CHAMP: West Bromwich Albion" tvg-logo="https://redraws.net:443/images/4d8314015b260fa64a31748ce7b6ae3e.png" group-title="IFOLLOW",CHAMP: West Bromwich Albion
 http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/557179
-#EXTINF:-1 tvg-id="" tvg-name="EFL33: Wrexham 15:00 Barrow 01/01 (L2)" tvg-logo="https://www.tranmererovers.co.uk/siteassets/news/logos/ifollow.png" group-title="IFOLLOW",EFL33: Wrexham 15:00 Barrow 01/01 (L2)
-http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/592977
 #EXTINF:-1 tvg-id="" tvg-name="EFL01: Blackburn Rovers 15:00 Rotherham United (CH) 01/01" tvg-logo="https://www.tranmererovers.co.uk/siteassets/news/logos/ifollow.png" group-title="IFOLLOW",EFL01: Blackburn Rovers 15:00 Rotherham United (CH) 01/01
 http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/593235
 #EXTINF:-1 tvg-id="" tvg-name="EFL02: Bristol City 15:00 Millwall (CH) 01/01" tvg-logo="https://www.tranmererovers.co.uk/siteassets/news/logos/ifollow.png" group-title="IFOLLOW",EFL02: Bristol City 15:00 Millwall (CH) 01/01
@@ -8759,6 +8757,8 @@ http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/593263
 http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/593264
 #EXTINF:-1 tvg-id="" tvg-name="EFL32: Tranmere Rovers 15:00 Notts County 01/01 (L2)" tvg-logo="https://www.tranmererovers.co.uk/siteassets/news/logos/ifollow.png" group-title="IFOLLOW",EFL32: Tranmere Rovers 15:00 Notts County 01/01 (L2)
 http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/593265
+#EXTINF:-1 tvg-id="" tvg-name="EFL33: Wrexham 15:00 Barrow 01/01 (L2)" tvg-logo="https://www.tranmererovers.co.uk/siteassets/news/logos/ifollow.png" group-title="IFOLLOW",EFL33: Wrexham 15:00 Barrow 01/01 (L2)
+http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/592977
 #EXTINF:-1 tvg-id="" tvg-name="***LOI***" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/IrishPremierDivision.vresize.350.350.medium.0.png" group-title="LOI",***LOI***
 http://mix-dns.com:8080/Bill2023/59fuXP8Lbq/571346
 #EXTINF:-1 tvg-id="" tvg-name="LOITV 1 | Longford Town FC vs Treaty United FC // UK Sat 30 Sep 7:30pm" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/IrishPremierDivision.vresize.350.350.medium.0.png" group-title="LOI",LOITV 1 | Longford Town FC vs Treaty United FC // UK Sat 30 Sep 7:30pm
